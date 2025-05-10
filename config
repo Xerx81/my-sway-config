@@ -234,7 +234,7 @@ default_floating_border pixel 3
 gaps inner 5
 gaps outer 3
 
-# Hide cursor after 7 seconds
-seat * hide_cursor 7000
+# Hide cursor after 5 seconds
+seat * hide_cursor 5000
 
 include /etc/sway/config.d/*
