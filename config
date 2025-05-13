@@ -231,7 +231,7 @@ default_border pixel 3
 default_floating_border pixel 3
 
 # Set inner and outer gaps (padding between/around windows)
-gaps inner 5
+gaps inner 3
 gaps outer 3
 
 # Hide cursor after 5 seconds
